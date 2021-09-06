@@ -1,0 +1,15 @@
+D:\Visual\Tack manager\Tack manager\bin\Debug\netcoreapp3.1\Task manager.exe
+D:\Visual\Tack manager\Tack manager\bin\Debug\netcoreapp3.1\Task manager.deps.json
+D:\Visual\Tack manager\Tack manager\bin\Debug\netcoreapp3.1\Task manager.runtimeconfig.json
+D:\Visual\Tack manager\Tack manager\bin\Debug\netcoreapp3.1\Task manager.runtimeconfig.dev.json
+D:\Visual\Tack manager\Tack manager\bin\Debug\netcoreapp3.1\Task manager.dll
+D:\Visual\Tack manager\Tack manager\bin\Debug\netcoreapp3.1\Task manager.pdb
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.csprojAssemblyReference.cache
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Tack_manager.Manager.resources
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.csproj.GenerateResource.cache
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.AssemblyInfoInputs.cache
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.AssemblyInfo.cs
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.csproj.CoreCompileInputs.cache
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.dll
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.pdb
+D:\Visual\Tack manager\Tack manager\obj\Debug\netcoreapp3.1\Task manager.genruntimeconfig.cache
